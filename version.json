@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/makssavenec/reply-helper-releases/releases/download/v1.0.0/reply-helper.zip",
-  "notes": "Первая версия с автопроверкой обновлений."
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/makssavenec/reply-helper-releases/releases/download/v1.0.1/reply-helper.zip",
+  "notes": "Тестовый релиз — проверка блокировки при устаревшей версии."
 }
