@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.3",
-  "download_url": "https://github.com/makssavenec/reply-helper-releases/releases/download/v1.0.3/reply-helper.zip",
-  "notes": "Проверка полного цикла обновления."
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/makssavenec/reply-helper-releases/releases/download/v1.0.4/reply-helper.zip",
+  "notes": "Исправлен баг: будильник фоновой проверки мог никогда не срабатывать сам."
 }
