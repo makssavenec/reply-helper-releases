@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.4",
-  "download_url": "https://github.com/makssavenec/reply-helper-releases/releases/download/v1.0.4/reply-helper.zip",
-  "notes": "Исправлен баг: будильник фоновой проверки мог никогда не срабатывать сам."
+  "latest_version": "1.0.5",
+  "download_url": "https://github.com/makssavenec/reply-helper-releases/releases/download/v1.0.5/reply-helper.zip",
+  "notes": "Резервное определение говорящего по расположению (слева/справа)."
 }
